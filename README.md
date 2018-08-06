@@ -17,3 +17,5 @@ To learn how to deploy this starter web app to App Service in a few minutes, go 
 ## License
 
 See [LICENSE](LICENSE).
+
+Testing deployment
