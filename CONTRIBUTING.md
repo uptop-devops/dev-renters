@@ -1,6 +1,6 @@
 # Contributing to Azure samples
 
-Thank you for your interest in contributing to Azure samples!
+Thank you for your interest in contributing to Azure samples please test!
 
 ## Ways to contribute
 
